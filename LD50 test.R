@@ -8,7 +8,7 @@ library(ggplot2)
 library(ggpubr)
 library(patchwork)
 
-data <- bombus_LD50
+data <- file_name
 
 
 #-------------------------   Dose Response Curve and LC50 dataframe   ----
